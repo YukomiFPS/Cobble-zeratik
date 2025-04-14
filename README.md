@@ -49,6 +49,8 @@ If the game tells you that **some mods are missing**, don't worry! Here's how yo
 | FTB Teams (Fabric)    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric)   |
 | GPU Memory Leak Fix   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)|
 | Global Packs          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack)|
+| Cobblemon Armors      | [Modrinth](https://modrinth.com/mod/cobblemon-armors)                         |
+| Fae's Cobblemizer     | [Modrinth](https://modrinth.com/mod/faes-cobblemizer)                         |
 4. After downloading, place the **`.jar` files** of these mods into your **mods folder**.
 
 ---
@@ -64,6 +66,31 @@ If you want to use the `.mrpack` file, **you should use a modpack launcher**. He
 3. The launcher will automatically handle the installation of the mods and configurations.
 
 ---
+
+## 🎧 CobbleSounds Resource Pack
+For an enhanced audio experience in the Cobble-Zeratik modpack, you can use the CobbleSounds Resource Pack.
+
+You can download it from Modrinth using the link below:
+
+| Resource Pack Name     | Download Link                                                                  |
+|----------------------- |------------------------------------------------------------------------------- |
+| CobbleSounds           | [Modrinth](https://modrinth.com/resourcepack/cobblesounds/version/1.4)         |
+
+How to Install the Resource Pack
+Download the CobbleSounds Resource Pack.
+
+Move the downloaded .zip file into your Minecraft resourcepacks folder:
+
+C:/Users/YourName/AppData/Roaming/.minecraft/resourcepacks
+Open Minecraft and navigate to Options → Resource Packs.
+
+Select the CobbleSounds Resource Pack from the available list.
+
+Click Done to apply the pack.
+
+Enjoy the custom sounds while playing the Cobble-Zeratik modpack!
+
+
 
 ## 🚀 Launching the Modpack
 
@@ -90,6 +117,7 @@ git clone https://github.com/Zeratik/Cobble-zeratik
 If you want an **easier way to install** the modpack, you can use [Prism Launcher](https://prismlauncher.org/). It allows you to **import the `.mrpack` file** with just one click, and you won't need to manually install the mods.
 
 ---
+
 
 ## 🛑 Troubleshooting
 
